@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+UIKIT_EXTERN UIColor * const color;
 
 @end
 
